@@ -1,0 +1,21 @@
+{
+  "name": "peekabuy",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "David Sun"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
